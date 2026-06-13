@@ -1,0 +1,10 @@
+Ruta: http://localhost:3000/
+Resultado: El servidor responde con el mensaje "Servidor activo". Esta ruta permite verificar que el servidor está funcionando correctamente.
+Ruta: http://localhost:3000/saludo
+Resultado: El servidor responde con el mensaje "Hola comunidad". Esta ruta devuelve un saludo fijo para todos los usuarios.
+Ruta: http://localhost:3000/mensaje/juan
+Resultado: El servidor responde con el mensaje "Hola juan". La ruta utiliza el nombre incluido en la URL para personalizar el saludo.
+Ruta: http://localhost:3000/mensaje/maria
+Resultado: El servidor responde con el mensaje "Hola maria". El parámetro de la ruta cambia el mensaje según el nombre recibido.
+Ruta: http://localhost:3000/mensaje/carlos
+Resultado: El servidor responde con el mensaje "Hola carlos". Esto demuestra que la ruta es dinámica y puede generar respuestas diferentes según el nombre proporcionado.

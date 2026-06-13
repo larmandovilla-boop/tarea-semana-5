@@ -1,0 +1,4 @@
+La ruta `/reporte` sirve para recibir un mensaje enviado por un usuario. Cuando alguien
+ envía un reporte, el servidor recibe el mensaje y responde indicando que fue recibido correctamente.
+En una aplicación comunitaria, esta ruta podría utilizarse para que las personas informen problemas,
+ hagan sugerencias o comuniquen situaciones que necesiten atención. Por ejemplo, un ciudadano podría reportar un daño en una calle o un problema en su barrio. Esto ayuda a mejorar la comunicación entre la comunidad y las personas encargadas de solucionar los problemas.
